@@ -1,0 +1,1 @@
+# mackerel_plugin
